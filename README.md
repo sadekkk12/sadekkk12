@@ -1,8 +1,5 @@
 # Hi there 👋, I'm Sadek!
 
-## 🚀 About Me
-I'm an aspiring software developer, currently diving deep into the world of coding as an AP Computer Science student. where I have developed a strong skillset in Java, HTML, CSS, JavaScript, backend technologies and foundational knowledge in DevOps. Outside of formal education, I independently pursued IOS and mobile development by learning Swift.
-
 🌱 **Currently Learning:** Currently diving into React Native at school, building on my Swift skills to cover more ground in mobile app development. Looking to learn SwiftUI & SwiftData in the near future!
 
 👨‍💻 **Projects:** My GitHub reflects personal explorations in software development, with many collaborative and academic projects in private repositories. These experiences have been crucial in developing my skills across various technologies. I look forward to expanding my portfolio with more visible, impactful work.
