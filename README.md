@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sadek!
 
-🌱 **Currently Learning:** Currently diving into React Native at school, building on my Swift skills to cover more ground in mobile app development. Looking to learn SwiftUI & SwiftData in the near future!
+🌱 **Currently Learning:** React Native at school, building on my Swift skills to cover more ground in mobile app development. Looking to learn SwiftUI & SwiftData in the near future!
 
 👨‍💻 **Projects:** My GitHub reflects personal explorations in software development, with many collaborative and academic projects in private repositories. These experiences have been crucial in developing my skills across various technologies. I look forward to expanding my portfolio with more visible, impactful work.
 
@@ -21,6 +21,6 @@ Email: sadekdev@hotmail.com
 
 ---
 
-``Remember, the journey of a thousand miles begins with a single step.`   - Lao Tzu`
+``Remember, the journey of a thousand miles begins with a single step.  `- Lao Tzu`
 
 I'm excited to take those steps every day, continuously learning, growing, and contributing to the tech world. Thanks for stopping by my GitHub!
