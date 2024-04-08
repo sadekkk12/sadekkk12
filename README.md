@@ -21,6 +21,6 @@ Email: sadekdev@hotmail.com
 
 ---
 
-``Remember, the journey of a thousand miles begins with a single step.  `- Lao Tzu`
+"Remember, the journey of a thousand miles begins with a single step." - Lao Tzu
 
 I'm excited to take those steps every day, continuously learning, growing, and contributing to the tech world. Thanks for stopping by my GitHub!
