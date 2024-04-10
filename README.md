@@ -5,12 +5,10 @@
 👨‍💻 **Projects:** My GitHub reflects personal explorations in software development, with many collaborative and academic projects in private repositories. These experiences have been crucial in developing my skills across various technologies. I look forward to expanding my portfolio with more visible, impactful work.
 
 ## 🔧 Technologies & Tools
-- **Mobile Development:**  Swift in Xcode (UIkit, CoreData, CoreLocation, Storyboards, programmatic UI), cocoapods, firebase, React Native, Expo. 
-- **Frontend Development:** HTML, CSS, JavaScript (node.js), Bootstrap, tools: Visual Studio Code.
-- **Backend Development:** Java (Spring Boot), JPA/Hibernate, Junit, SQL, RESTful APIs, tools: IntelliJ, Postman API.
-- **DevOps, Cloud & System Administration:** Docker, CI/CD (Maven, Azure, GitHub Workflows/Actions), Microsoft Azure Services. Linux Command Line, VM Management, DNS Management.
-- **Version Control & Agile Methodologies:** Proficient in Git (GitHub - advanced branching, code reviews, pull requests). Experienced in Scrum, Lean Software Development, Agile tools like JIRA.
-
+- **Mobile Development:** Swift, CoreData, React Native, Expo, Firebase
+- **Frontend Development:** HTML, CSS, JavaScript, Bootstrap
+- **Backend Development:** Java, Spring Boot, SQL, RESTful APIs
+- **DevOps, Version Control & Agile:** Docker, CI/CD, Azure, Linux, Git, Scrum, JIRA
 
 ## 🔭 **Looking Forward**
 As I continue to grow and explore new technologies, I'm also seeking opportunities that will challenge me and expand my expertise. I am currently open to part-time positions and internships that allow me to contribute to meaningful projects while completing my studies.
