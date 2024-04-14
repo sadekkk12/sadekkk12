@@ -2,7 +2,9 @@
 
 🌱 **Currently Learning:** React native, Swift, DSA and Intro to Cybersecurity
 
-👨‍💻 **Projects:** My GitHub reflects personal explorations in software development, with many collaborative and academic projects in private repositories. These experiences have been crucial in developing my skills across various technologies. I look forward to expanding my portfolio with more visible, impactful work.
+👨‍💻 **Projects:** My GitHub reflects personal explorations in software development, with many collaborative and academic projects in private repositories. These experiences have been crucial in developing my skills across various technologies. I look forward to expanding my portfolio with more visible, impactful work. Take a look at my current portfolio page and follow along [here](https://sadekdev.com)! 
+
+
 
 ## 🔧 Technologies & Tools
 - **Mobile Development:** Swift, CoreData, React Native, Expo, Firebase
