@@ -19,6 +19,8 @@ If you're looking for someone passionate about software development and eager to
 
 Email: sadekdev@hotmail.com
 
+Portfolio: [sadekdev.com](https://sadekdev.com)
+
 ---
 
 "Remember, the journey of a thousand miles begins with a single step." - Lao Tzu
